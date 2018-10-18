@@ -1,0 +1,20 @@
+﻿6.2 Web frontend
+Spreadsheet 6 – Web frontend
+Title
+	Solution
+	Language
+	JavaScript, GraphQL
+	Framework
+	React, Apollo Client
+	Data visualization
+	Ant Design
+	
+
+6.3 Others
+Spreadsheet 7 – Others
+Title
+	Solution
+	Email service
+	Elastice mail
+	Continuous integration
+	Jenkins*
